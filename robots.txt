@@ -1,1 +1,13 @@
 
+User-agent: *
+Allow: /
+
+# Önemli: Henüz tamamlanmamış ve hatalı olabilecek klasörleri taramadan çıkartıyoruz.
+# Rusça ve Türkçe sayfaları tamamladığımızda bu satırları sileceğiz.
+Disallow: /ru/
+Disallow: /tr/
+
+# Eski siteden kalmış, içeriği karışık olan ve silme sorunu yaşadığımız dosyayı taramadan çıkartıyoruz.
+Disallow: /molerske-usluge.html
+
+Sitemap: https://namjestajmontazaselidbe.me/sitemap.xml
