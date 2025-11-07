@@ -1,4 +1,4 @@
-
+$$\text{# GECICI GUNCELLEME - 07.11.2025}$$
 User-agent: *
 Allow: /
 
